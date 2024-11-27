@@ -1,2 +1,3 @@
 # Stochastic_Differential_Equation
 This project includes literature review and implementation on the Numerical Simulation of Stochastic Differential Equation. The primary purpose of this report is to comprehend the idea of Brownian Motion and interpret the idea numerically using different integrals namely Ito and Stratonovich Integrals. And using the integrals how to simulate the parameters with the help of Euler Maruyama equation for scalar autonomous SDE.
+To have a comprehensive idea about the implementation and the concepts it is encouraged to go through the Report first and then the code will make sense since it is based on mathematical concepts rather than technical concepts alone.
